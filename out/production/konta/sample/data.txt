@@ -1,0 +1,17 @@
+
+Jméno:           Johny
+Příjmění:        Depp
+Rodné Číslo:  1234/12
+Číslo OP:        12455
+Výše Úvěru:   300
+RPSN:             1
+
+
+Jméno:           Angelina
+Příjmění:        Jolie
+Rodné Číslo:  12555/224
+Číslo OP:        32165
+Výše Úvěru:   -
+RPSN:             -
+
+
